@@ -24,8 +24,10 @@ akhir.
 basisdata-25430009/
 ├── README.md
 ├── p01_lingkungan_25430009.sql
+├── p02_kebutuhan_data_25430009.md
 ├── Laporan/
-│   └── p01_laporan_25430009.md
+│   ├── p01_laporan_25430009.md
+│   └── p02_laporan_25430009.md
 └── Screenshots/
     ├── Screenshot_20261002_083752.png
     ├── Screenshot_20261002_083828.png
