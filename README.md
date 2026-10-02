@@ -2,9 +2,9 @@
 
 ## Identitas Mahasiswa
 
-- Nama: Abbiyu Hashfi Dzakwan
-- NPM: 25430009
-- Kelas: A
+- Nama: `Abbiyu Hashfi Dzakwan`
+- NPM: `25430009`
+- Kelas: `A`
 
 ## Deskripsi Proyek
 
