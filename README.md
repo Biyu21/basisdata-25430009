@@ -21,12 +21,20 @@ akhir.
 ## Struktur Proyek
 
 basisdata-25430009/
-│
 ├── README.md
 ├── p01_lingkungan_25430009.sql
-│
-├── laporan/
+├── Laporan/
 │   └── p01_laporan_25430009.md
-│
-└── screenshots/
-    ├── ...
+└── Screenshots/
+    ├── Screenshot_20261002_083752.png
+    ├── Screenshot_20261002_083828.png
+    ├── Screenshot_20261002_103733.png
+    ├── Screenshot_20261002_104056.png
+    ├── Screenshot_20261002_105046.png
+    ├── Screenshot_20261002_105409.png
+    ├── Screenshot_20261002_105501.png
+    ├── Screenshot_20261002_111329.png
+    ├── Screenshot_20261002_111450.png
+    ├── Screenshot_20261002_111742.png
+    ├── Screenshot_20261002_111833.png
+    └── Screenshot_20261002_111911.png
