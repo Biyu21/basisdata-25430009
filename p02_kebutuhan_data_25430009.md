@@ -38,16 +38,17 @@ Dengan demikian:
 |---|---|
 | Petugas Perpustakaan | Mengelola data anggota, buku, eksemplar, peminjaman, pengembalian, dan denda |
 | Anggota | Menggunakan layanan peminjaman dan pengembalian buku |
-| Kepala Perpustakaan | Melihat informasi dan laporan kegiatan perpustakaan |
+| Kepala Perpustakaan | Mengelola data petugas serta melihat informasi dan laporan kegiatan perpustakaan |
 
 ### Proses Bisnis
 
 | Kode | Proses Bisnis | Aktor Utama | Deskripsi |
 |---|---|---|---|
-| PB-01 | Mengelola Data Anggota | Petugas | Mencatat, mengubah, membaca, dan menghapus data anggota |
+| PB-01 | Mengelola Data Anggota | Petugas | Mencatat, membaca, mengubah, dan menghapus data anggota |
 | PB-02 | Mengelola Koleksi Buku | Petugas | Mengelola data buku dan eksemplar yang tersedia |
 | PB-03 | Melayani Peminjaman Buku | Petugas, Anggota | Mencatat transaksi peminjaman buku anggota |
 | PB-04 | Melayani Pengembalian dan Denda | Petugas, Anggota | Mencatat pengembalian dan menghitung denda keterlambatan |
+| PB-05 | Mengelola Data Petugas | Kepala Perpustakaan | Mencatat, membaca, mengubah, dan menghapus data petugas |
 
 ---
 
@@ -137,7 +138,6 @@ keterlambatan dan perhitungan denda.
 ## 7. Matriks CRUD
 
 Keterangan:
-
 - C = Create
 - R = Read
 - U = Update
@@ -149,6 +149,7 @@ Keterangan:
 | PB-02 Mengelola Koleksi Buku |  | C/R/U/D | C/R/U/D |  |  |  |  |  |
 | PB-03 Melayani Peminjaman Buku | R | R | R/U | R | C/R | C/R |  |  |
 | PB-04 Melayani Pengembalian dan Denda | R | R | R/U | R | R/U | R | C/R/U | C/R/U |
+| PB-05 Mengelola Data Petugas |  |  |  | C/R/U/D |  |  |  |  |
 
 ---
 
