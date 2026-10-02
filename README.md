@@ -20,6 +20,7 @@ akhir.
 
 ## Struktur Proyek
 
+```text
 basisdata-25430009/
 ├── README.md
 ├── p01_lingkungan_25430009.sql
@@ -38,3 +39,4 @@ basisdata-25430009/
     ├── Screenshot_20261002_111742.png
     ├── Screenshot_20261002_111833.png
     └── Screenshot_20261002_111911.png
+```
