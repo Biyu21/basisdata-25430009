@@ -60,7 +60,6 @@ Diagram proyek dapat dilihat melalui gambar berikut:
 
 ![ERD Konseptual Sistem Informasi Perpustakaan](.../Screenshots/p03_erd_25430009.png)
 
-- **Gambar ERD:** [`p03_erd_25430009.png`](.../Screenshotsp03_erd_25430009.png)
 - **Sumber diagram yang dapat diedit:** [`p03_erd_25430009.drawio`](p03_erd_25430009.drawio)
 - **Laporan Pertemuan 3:** [`Laporan/p03_laporan_25430009.md`](Laporan/p03_laporan_25430009.md)
 
