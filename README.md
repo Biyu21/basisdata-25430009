@@ -43,8 +43,6 @@ basisdata-25430009/
     └── Screenshot_ERD_25430009.png
 ```
 
-*Catatan: struktur di atas merupakan susunan yang dituju. Pastikan semua file sudah benar-benar tersedia di repositori dan gunakan nama file yang sama persis.*
-
 ## Daftar Pekerjaan Praktikum
 
 | Pertemuan | Kegiatan | Berkas utama |
